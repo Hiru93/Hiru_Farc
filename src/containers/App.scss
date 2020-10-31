@@ -1,0 +1,121 @@
+.rm-logo {
+    height: 55px;
+    cursor: pointer;
+}
+
+.rm-layout {
+    min-height: 100vh;
+}
+
+.rm-layout-content {
+    margin: 3vh;
+}
+
+.rm-layout-content > div {
+    padding: 24px;
+    background: #fff;
+    min-height: 92vh;
+}
+
+.rm-container {
+    min-height: 60vh;
+}
+
+.rm-full-container {
+    min-height: 70vh;
+}
+
+.rm-issue-banner {
+    background: red;
+    color: yellow;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.rm-loader-management {
+    min-width: 100%;
+    min-height: 60vh;
+    padding-top: 90px;
+}
+
+.rm-message-info {
+    min-width: 100%;
+    min-height: 65vh;
+}
+
+.rm-message-info-upload {
+    min-width: 100%;
+    min-height: 30vh;
+}
+
+.rm-message-warning {
+    min-width: 93%;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.rm-dropdown-container {
+    padding: 0;
+    width: 188px;
+    margin-bottom: 8px;
+    display: 'block';
+}
+
+.rm-dropdown-filter {
+    width: 188px;
+    margin-bottom: 8px;
+    display: 'block';
+}
+
+.rm-dropdown-button {
+    width: 90px;
+}
+
+.rm-dropdown-button-reset {
+    margin-left: 8px;
+}
+
+.rm-filtered-text {
+    color: #1890ff!important;
+}
+
+.rm-grouping-by {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.ant-layout-header  {
+    height: 46px;
+}
+
+.rm-result-spacing {
+    margin-bottom: 10px;
+}
+
+.rm-form-spacing {
+    margin: 0px;
+    padding: 0px;
+}
+
+.ant-menu-dark .ant-menu-item-selected .anticon {
+    color: #545759;
+}
+
+.ant-menu-dark .ant-menu-item, .ant-menu-dark .ant-menu-item-group-title, .ant-menu-dark .ant-menu-item > a {
+    color: #545759;
+}
+
+.ant-menu-dark .ant-menu-item:hover, .ant-menu-dark .ant-menu-item-active, .ant-menu-dark .ant-menu-submenu-active, .ant-menu-dark .ant-menu-submenu-open, .ant-menu-dark .ant-menu-submenu-selected, .ant-menu-dark .ant-menu-submenu-title:hover {
+    color: #6AA2B8;
+}
+
+.ant-card-cover {
+    max-height: 30vh;
+    overflow: hidden;
+}
+
+#root {
+    background-color: #fff;
+    background-image: url('../assets/splash-screen.jpg');
+    background-size: 101%;
+}

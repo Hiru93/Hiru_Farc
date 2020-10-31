@@ -1,0 +1,32 @@
+[{
+    "key": 0,
+    "icon": "solution",
+    "label": "Gestione dati",
+    "componentId": "data-manage"
+},{
+    "key": 1,
+    "icon": "swap",
+    "label": "Importa ed esporta dati",
+    "componentId": "import-export"
+},{
+    "key": 2,
+    "icon": "diff",
+    "label": "Materiale informativo",
+    "componentId": "upload-materials"
+},{
+    "key": 3,
+    "icon": "file-sync",
+    "label": "Gestione documenti",
+    "componentId": "info-material-table"
+},
+{
+    "key": 4,
+    "icon": "usergroup-add",
+    "label": "Gestione archivio",
+    "componentId": "archive-data-management"
+},{
+    "key": 10,
+    "icon": "logout",
+    "label": "Logout",
+    "componentId": "logout"
+}]
